@@ -1,0 +1,312 @@
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url('../img/bacgroundbg.png');
+  
+    /* Full height */
+    height: 100%; 
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background-color:rgba(8, 44, 113, 0.6) !important; */
+  }
+
+
+  #thenav
+  {
+    background: transparent !important;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .navbar-nav
+  {
+    margin-left: 1100px;
+  }
+.imglogo
+{
+  position: relative;
+  width: 110%;
+}
+
+.button {
+ 
+  width: 127px;
+  height: 50px;
+  background: #0C1077;
+  color: white;
+  border-radius: 20px;
+  border: none;
+}
+
+
+.nav-item a
+{
+  margin-top: 20px;
+  font-family: 'Imprima', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 17px;
+  color: white;
+}
+
+.nav-item a button
+{
+  font-family: 'Imprima', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 17px;
+  color: white;
+  margin-top: -20px;
+}
+
+.nav-link
+{
+  margin-right: 30px;
+}
+
+/* Have a safe enjoyable flight with us! */
+
+.txt h1
+{
+  position: relative;
+
+/* position: absolute; */
+width: 750px;
+height: 410px;
+left: 250px;
+top: 60px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 700;
+font-size: 95px;
+line-height: 115px;
+display: flex;
+align-items: center;
+color: #F5F5F5;
+
+}
+
+.icon1
+{
+  margin-top: 65px;
+  margin-left: 260px;
+}
+
+.icon1 h4
+{
+  margin-top: -70px;
+  margin-left: 75px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF; 
+}
+
+
+.icon2 #con2
+{
+  margin-top: -70px;
+  margin-left: 510px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF; 
+}
+
+.rec
+{
+
+  position: absolute;
+  width: 86%;
+  height: 300px;
+  left: 260px;
+  top: 778px;
+  
+}
+
+.pic-one
+{
+  position: absolute;
+  width: 360px;
+  height: 200px;
+  left: 350px;
+  top: 830px;
+ 
+  
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+.pic-one h4
+{
+  position: absolute;
+  width: 232.11px;
+  height: 135px;
+  left: 280px;
+  margin-top: -170px;
+  
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+#pic-one1
+{
+  height: 250px;
+  width: 300px;
+  margin-left: -45px;
+}
+
+
+.pic-two
+{
+  position: absolute;
+  width: 360px;
+  height: 200px;
+  left: 950px;
+  top: 830px;
+ 
+  
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+.pic-two h4
+{
+  position: absolute;
+  width: 232.11px;
+  height: 135px;
+  left: 280px;
+  margin-top: -170px;
+  
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+#pic-two2
+{
+  height: 250px;
+  width: 300px;
+  margin-left: -45px;
+}
+
+
+
+
+
+/* Hundreds of guides New high-quality guides added each week. */
+
+
+/*  */
+
+
+/* Many local experts The largest netword of local guides all over the world. */
+
+
+/* position: absolute;
+width: 232.11px;
+height: 135px;
+left: 1057.89px;
+top: 826px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF; */
+
+/* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! *//* Pictures!!!! */
+
+
+
+/* pic1 */
+
+/* pexels-asad-photo-maldives-3155666 1 */
+
+
+/* position: absolute;
+width: 254.07px;
+height: 213px;
+left: 200px;
+top: 794px;
+
+background: url(pexels-asad-photo-maldives-3155666.jpg); */
+
+
+
+
+
+/* pic2 */
+
+/* pexels-pierre-blaché-3369102 1 */
+
+
+/* position: absolute;
+width: 254px;
+height: 217px;
+left: 785px;
+top: 794px;
+
+background: url(pexels-pierre-blaché-3369102.jpg); */
+
